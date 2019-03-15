@@ -5,6 +5,6 @@ function happyHolidays() {
 }
 
 
-happyHolidaysTo() {
+happyHolidaysTo( name) {
   
 }
